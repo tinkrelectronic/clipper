@@ -1,0 +1,4 @@
+D:/src/fritzing/clipper_ver6.4.2/cpp/CMakeFiles/polyclipping.dir
+D:/src/fritzing/clipper_ver6.4.2/cpp/CMakeFiles/INSTALL.dir
+D:/src/fritzing/clipper_ver6.4.2/cpp/CMakeFiles/ALL_BUILD.dir
+D:/src/fritzing/clipper_ver6.4.2/cpp/CMakeFiles/ZERO_CHECK.dir

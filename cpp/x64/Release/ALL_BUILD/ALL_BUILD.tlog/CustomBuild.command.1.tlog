@@ -1,0 +1,10 @@
+^D:\SRC\FRITZING\CLIPPER_VER6.4.2\CPP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/src/fritzing/clipper_ver6.4.2/cpp -BD:/src/fritzing/clipper_ver6.4.2/cpp --check-stamp-file D:/src/fritzing/clipper_ver6.4.2/cpp/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
